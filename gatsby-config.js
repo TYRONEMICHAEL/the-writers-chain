@@ -3,7 +3,7 @@ module.exports = {
     title: `The Writers Chain`,
     author: {
       name: `Tyrone Avnit`,
-      summary: `who lives and works in Johannesburg currently interested in building Web3 platforms.`,
+      summary: `who, with the help of you, is building a decentralised Web3 platform for writers.`,
     },
     description: `The Writers Chain is a decentralised platform for writers.`,
     siteUrl: `https://www.thewriterschain.xyz`,
